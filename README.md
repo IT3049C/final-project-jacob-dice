@@ -1,5 +1,6 @@
 # GameHub
-
+# Team Members
+Jacob Dice
 ## Checklist
 
 - [ ] frequent commits to github.
